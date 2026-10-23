@@ -1,3 +1,5 @@
+[![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Get%20Pre--built%20Jar-blue)](https://builtbybit.com/resources/stafflogger-staff-audit-anti-abuse.126230/)
+
 # 🛡️ StaffLogger
 
 **Enterprise-Grade Staff Auditing & Anti-Abuse Security Suite for Minecraft Networks**
